@@ -1,7 +1,11 @@
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'bluebuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+<<<<<<< HEAD
+    'redbuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+=======
+    'redbuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+>>>>>>> second_branch
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
